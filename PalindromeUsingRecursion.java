@@ -1,4 +1,4 @@
-package Assignment1;
+package Practice;
 
 public class PalindromeUsingRecursion {
 	public static void PalindromeCheck(String str, int left, int right)
